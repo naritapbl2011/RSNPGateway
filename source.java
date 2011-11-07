@@ -3,4 +3,6 @@ main()
     
     printf("out");
     
+    list;
+
 }
