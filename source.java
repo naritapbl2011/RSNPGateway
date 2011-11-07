@@ -3,6 +3,4 @@ main()
     
     printf("out");
     
-    input;
-    
 }
