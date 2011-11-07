@@ -2,5 +2,5 @@ main()
 {
     
     printf("out");
-    list
+    //list;
 }
